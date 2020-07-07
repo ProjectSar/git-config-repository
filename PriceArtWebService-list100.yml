@@ -8,6 +8,7 @@ application:
 # ==============================================================
 info:
   assistenza:
-     nome: "Alessandro"
-  nome-app : "PriceArt Web Service - Versione Autenticazione JWT"
-     profilo : "List 100 con Sconto"
+    nome: "Alessandro"
+  nome:  
+    nome-app: "PriceArt Web Service - Versione Autenticazione JWT"
+  profilo: "List 100 con Sconto"
