@@ -1,0 +1,14 @@
+#Application Config
+application:
+  listino: 1
+  sconto: 10
+
+# ==============================================================
+# = Actuator Info
+# ==============================================================
+info:
+  assistenza:
+    nome: "Alessandro"
+  nome:  
+    nome-app: "PriceArt Web Service - Versione Autenticazione JWT"
+  profilo: "Standard con Sconto"
